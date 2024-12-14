@@ -1,0 +1,62 @@
+##### Este archivo incluye los archivos y directorios que no deben subirse al repositorio, 
+## ya sea porque contienen datos sensibles, son demasiado grandes, o se generan automáticamente durante el trabajo. 
+
+# Entornos virtuales y dependencias
+venv/
+.env
+*.env
+
+# Archivos relacionados con Jupyter Notebooks
+.ipynb_checkpoints/
+
+# Archivos de configuración específicos del sistema operativo
+.DS_Store
+Thumbs.db
+
+# Archivos de caché y temporales
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.tmp
+*.log
+
+# Datos
+data/raw/
+data/processed/
+data/**/*.csv
+data/**/*.json
+data/**/*.xlsx
+
+# Salidas generadas durante el análisis
+outputs/
+outputs/figures/
+outputs/predictions/
+outputs/**/*.png
+outputs/**/*.jpg
+outputs/**/*.csv
+outputs/**/*.json
+
+# Modelos entrenados
+models/
+*.h5
+*.hdf5
+*.pkl
+*.joblib
+*.model
+
+# Archivos relacionados con el IDE
+.vscode/
+.idea/
+
+# Dependencias de paquetes
+*.egg-info/
+dist/
+build/
+
+# Archivos relacionados con Docker
+*.pid
+*.sock
+
+# Archivos de configuración para herramientas de versionado
+*.lock
