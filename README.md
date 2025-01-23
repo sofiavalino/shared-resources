@@ -108,3 +108,7 @@ Explore the projects, and if you have any questions or suggestions, don't hesita
 In addition to the projects in this repository, I also share my university notes and topics related to Data Science and Computer Science on my blog. You'll find content about the subjects I'm studying, as well as details about the projects I'm working on and other topics of interest.
 
 [![Blog](https://affable-valinosofia.wordpress.com/wp-content/uploads/2024/07/site-logo.png?w=88&h=88)](https://affable-valinosofia.wordpress.com/)
+
+---
+
+[![Back to sofiavalino](https://img.shields.io/badge/=^._.^=%20Back%20to%20SOFIAVALINO%20=^._.^=-blue?style=for-the-badge)](https://github.com/sofiavalino)
