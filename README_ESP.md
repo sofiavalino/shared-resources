@@ -107,3 +107,8 @@ Este proyecto está bajo la [MIT License](https://github.com/sofiavalino/templat
 Además de los proyectos de este repositorio, también comparto mis apuntes de la facultad y temas relacionados con Data Science y ciencias de la computación en mi blog. En él, encontrarás contenido sobre las materias que estudio, así como detalles sobre los proyectos que realizo y otros temas de interés.
 
 [![Blog](https://affable-valinosofia.wordpress.com/wp-content/uploads/2024/07/site-logo.png?w=88&h=88)](https://affable-valinosofia.wordpress.com/)
+
+---
+
+
+[![Volver a sofiavalino](https://img.shields.io/badge/=^._.^=%20Volver%20a%20SOFIAVALINO%20=^._.^=-blue?style=for-the-badge)](https://github.com/sofiavalino)
